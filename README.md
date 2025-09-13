@@ -2,14 +2,17 @@
 
 This is a simple |C++ program| that generates a password in three levels of strength based on user input.  
 The program allows the user to decide how long the password should be and whether they are satisfied with each generated password.
-  Features
+
+  -Features
 . User-defined length:Choose password length (4–12 characters).
+
 . Three Strength Levels:
   1. Basic Password– Numbers only.
   2. Strong Password – Letters (uppercase + lowercase) and numbers.
   3. Strongest Password – Letters, numbers, and special characters.
   Interactive Approval: User can accept or reject each password.
   Regeneration: If rejected, a stronger password is automatically generated.
+
 
 Example
 How long should the password be? (4-12): 6
