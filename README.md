@@ -3,9 +3,9 @@
 This project is a *simple interactive password generator* written in C++.  
 It allows the user to decide how long the password should be and then generates a password in *three strength levels*:
 
-1. *Basic Password* – Numbers only  
-2. *Strong Password* – Letters + Numbers  
-3. *Strongest Password* – Letters + Numbers + Special Characters  
+1. Basic Password – Numbers only  
+2. Strong Password – Letters + Numbers  
+3. Strongest Password – Letters + Numbers + Special Characters  
 
 The user can accept or reject each password until satisfied.
 
@@ -20,7 +20,7 @@ The user can accept or reject each password until satisfied.
 
 ---
 
-## Example 
+# Example 
 
 How long should the password be? (4-12): 6
 Generated Password: 472195
