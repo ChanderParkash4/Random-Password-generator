@@ -7,6 +7,7 @@ The program allows the user to decide how long the password should be and whethe
    User-defined length:Choose password length (4–12 characters).
 
    Three Strength Levels:
+   
   1. Basic Password– Numbers only.
   2. Strong Password – Letters (uppercase + lowercase) and numbers.
   3. Strongest Password – Letters, numbers, and special characters.
@@ -14,17 +15,18 @@ The program allows the user to decide how long the password should be and whethe
   Regeneration: If rejected, a stronger password is automatically generated.
 
 
-Example
-How long should the password be? (4-12): 6
+# Example  
 
-Generated Password: 472195
+.How long should the password be? (4-12): 6
 
-Is this password okay? (y/n): n
+.Generated Password: 472195
 
-Generated Strong Password: aT3fZk
+.Is this password okay? (y/n): n
 
-Is this password strong enough? (y/n): n
+.Generated Strong Password: aT3fZk
 
-Generated Strongest Password: @gH!z3
+.Is this password strong enough? (y/n): n
 
-This is the most strongest Password  :)
+.Generated Strongest Password: @gH!z3
+
+.This is the most strongest Password  :)
